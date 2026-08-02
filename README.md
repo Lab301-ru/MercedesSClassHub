@@ -28,7 +28,8 @@ script.js    инициализация Telegram WebApp и переходы по
 ## Деплой на GitHub Pages
 
 1. **Settings → Pages → Build and deployment → Source: Deploy from a branch.**
-2. Ветка — `main`, папка — `/ (root)`.
+2. Ветка — ветка по умолчанию репозитория (та, в которой лежат эти файлы),
+   папка — `/ (root)`.
 3. Сохранить и дождаться публикации.
 
 Полученный адрес (`https://<username>.github.io/<repo>/`) указать в
